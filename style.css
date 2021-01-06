@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#gradient{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper{
+    margin-top: 10rem;
+   text-align: center;
+}
+
+.header{
+    font-size: 3rem;
+    text-transform: capitalize;
+    padding-bottom: 2rem;
+    color: rgb(54, 49, 82);
+}
+
+.bg-name{
+    padding-top: 2rem;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(100, 32, 177);
+    font-family: cursive;
+}
+
+.color{
+    font-size: 1rem;
+    text-transform: lowercase;
+    line-height: 2;
+    font-weight: bold;
+    color: rgb(100, 32, 177);
+    font-family: cursive;
+}
+
+button{
+    margin-top: 1rem;
+    padding: 0.3rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
