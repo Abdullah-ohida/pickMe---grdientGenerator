@@ -45,6 +45,3 @@ randomColor.addEventListener('click', ()=>{
     displayBgColor(color1.value, color2.value)
 })
 
-
-
-
